@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://www.jier.site/2019/05/23/docker-install-drone-gitlab/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2018/12/10/docker-install-jira/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2024/12/09/docker-rasycast-api-proxy/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2019/05/27/enable-ladps-in-active-directory/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2024/12/11/hexo-deploy-white-screen/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2018/10/21/hexo-markdown-grammar/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2019/05/27/ldapadmin-connect-active-directory/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2024/12/10/movie-love-letter/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2019/05/27/windows-server-install-active-directory/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2025/06/30/deepseek-ai-technical-overview/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/2018/12/10/docker-install-confluence/</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/index.html</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/categories/index.html</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/404.html</loc>
+    
+    <lastmod>2025-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://www.jier.site/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://www.jier.site/tags/AI/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/Deep-Learning/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/LLM/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/docker/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/confluence/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/atlassian/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/gitlab/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/drone/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/devops/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/golang/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/jira/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/rasycast/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/api/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/Windows/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/AD/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/LDAP/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/hexo/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/git/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/deploy/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/markdown/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/%E6%83%85%E6%84%9F/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/tags/%E4%B8%AD%E5%B1%B1%E7%BE%8E%E7%A9%97/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://www.jier.site/categories/docker/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/categories/Windows/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jier.site/categories/hexo/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
